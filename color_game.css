@@ -1,0 +1,62 @@
+.LOL{
+      font-size: 1.5rem;  
+}
+.hello
+{
+    display: inline-block;
+    width: 20%;
+}
+.lend{
+    background-color: steelblue;
+    margin-bottom: 0px;
+    padding-top: 0px;
+    padding-bottom: 0.5rem;
+}
+.stripe{
+    background: white;
+    color: #4097d6;
+    text-align: center;
+    margin-bottom: 20px;
+}
+body{
+    background: #232323;
+     font-family: 'MuseoModerno', cursive;
+}
+.square{
+    width: 30%;
+    padding-bottom: 25%;
+    /* border: cyan 1px solid; */
+    border-radius: 1rem;
+    margin: 1.66%;
+    float: left;
+    transition: background 0.6s;
+    -webkit-transition: background 0.6s;
+    -moz-transition: background 0.6s;
+
+}
+#container{
+    margin: 0 auto;
+    max-width: 600px;
+}
+h1{
+    line-height: 1.1;
+    font-weight: 300;
+}
+.hi{
+    font-size: 170%;
+    line-height: 1.1;
+    font-weight: 300;
+}
+button 
+{
+    background: none;
+    border: none;
+    color: steelblue;
+    transition: all 1.0s;
+    outline: none;
+}
+button:hover 
+{
+    background: steelblue;
+    color: white;
+} 
