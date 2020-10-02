@@ -19,11 +19,11 @@ public class selectionsort_anik
         { 
             if(i!=sorting.length-1)
             {
-                System.out.print(sorting[i]+",");
+                System.out.println(sorting[i]+",");
             }
             else
             { 
-                System.out.print(sorting[i]);
+                System.out.println(sorting[i]);
             }
         }
     }
